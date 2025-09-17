@@ -1,4 +1,7 @@
-# 深度学习入门 2：自制框架笔记
+自制深度学习框架。
+
+
+参考自：深度学习入门 2：自制框架笔记
 
 ## 实现效果
 <img width="2490" height="1730" alt="0" src="https://github.com/user-attachments/assets/1a7434db-e295-494e-b4f2-bfcabbf93667" />
